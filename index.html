@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alura | Challenge</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <img src="./assets/logo.svg" alt="Alura logo">
+        </nav>
+    </header>
+    <main class="container">
+        <section class="container__main">
+            <textarea name="text" id="text" cols="30" rows="10" placeholder="Digite seu texto"></textarea>
+            <div class="container__options">
+                <small class="container__warning">
+                    <img src="./assets/bi_exclamation-circle-fill.svg" alt="exclametion icon">
+                    Apenas letras minúsculas e sem acento.
+                </small>
+                <div class="container__buttons">
+                    <button class="container__button  container__encrypt__button" id="btn__count">Criptografar</button>
+                    <button class="container__button container__button__decrypt" id="btn__reset" disabled>Descriptografar</button>
+                </div>
+            </div>
+        </section>
+        <section class="container__copy">
+            <div class="container__copy__content">
+                <img src="./assets/main-image.svg" alt="Search for words" class="container__copy__image">
+                <div class="container__copy__text">
+                    <h2 class="container__copy__title">Nenhuma mensagem encontrada</h2>
+                    <p class="container__copy__description">
+                        Digite um texto que você deseja criptografar ou descriptografar.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer></footer>
+    <script src="./js/script.js"></script>
+</body>
+</html>
