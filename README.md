@@ -28,7 +28,7 @@
 
 <h2>Demo</h2>
 
-<img src="" alt="Demo GIF" width="100%">
+<img src="demo.mp4" alt="Demo video" width="100%">
 
 </body>
 </html>
