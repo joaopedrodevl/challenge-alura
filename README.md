@@ -28,7 +28,7 @@
 
 <h2>Demo</h2>
 
-<img src="demo.mp4" alt="Demo video" width="100%">
+https://github.com/joaopedrodevl/challenger-alura/assets/141358061/dad007f5-e100-4b77-826a-e905cf534a75
 
 </body>
 </html>
