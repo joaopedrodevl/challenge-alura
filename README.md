@@ -8,7 +8,7 @@
 
 <h1>Codificador e Decodificador de texto</h1>
 
-<p>Resolução do challenger da Oracle One + Alura.</p>
+<p>Resolução do challenge da Oracle One + Alura.</p>
 
 <p>Acesse em: <a href="https://joaopedrodevl.github.io/challenger-alura/" target="_blank">Challenger</a></p>
 
