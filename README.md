@@ -10,7 +10,7 @@
 
 <p>Resolução do challenger da Oracle One + Alura.</p>
 
-<p>Acesse em: <a href="https://joaopedrodevl.github.io/challenger-alura/">Challenger/</a></p>
+<p>Acesse em: <a href="https://joaopedrodevl.github.io/challenger-alura/">Challenger</a></p>
 
 <h2>Author</h2>
 
